@@ -144,6 +144,7 @@ There may be bikes at the hotel
 If not (or they are not e-bikes), here are the options:
 - [Dou Dou e-bikes](https://maps.app.goo.gl/T3CZjfcWPLB12EJt5) (through an app). The link goes to the closest location, but others can be found [here](https://www.ddbear.jp/)
 - [HELLO CYCLING](https://maps.app.goo.gl/x5vNTGR4HUZTWBg4A) (?) - no reviews, no idea what that is. Should be another e-bike station though. There is an app in play store
+- [Glampark nearby](https://maps.app.goo.gl/G1jWaSX59phrwVzV9)
 
 ##### Route
 
