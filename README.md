@@ -25,25 +25,29 @@ P.S Sensō-ji’s main hall closes at 17:00; this is an exterior and grounds vis
 
 Odaiba
 
-| Time        | Plan                                                                                                                                                                         |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 07:00–07:45 | **Travel:** hotel → Oshiage Station → Asakusa Line to **Shimbashi** → Yurikamome platform                                                                                    |
-| 07:45–08:30 | **Yurikamome from Shimbashi all the way to Toyosu.** Try the front carriage for the forward vi                                                                               |
-| 08:30–09:20 | **Toyosu Park and Harumibashi Park waterfront:** stroll around the former shipyard and LaLaport’s waters                                                                     |
-| 09:20–10 **Walk toward Shijo-mae/Senkyaku Banrai**, passing through the Shin-Toyosu area.<br>Alternative route: lalaport seafront, harumi bridge, harumi rinkai park, # Harumiohashi ark,  |
-| 10:00–11:15 | **Toyosu Senkyaku Banrai:** explore the food streets +                                                                                                                       |
-| 11:15–11:45 | **Travel:** Yurikamome from Shijo-mae to **Tokyo Big Sight**, then walk to the bu                                                                                            |
-| 11:45–12:25 | **Tokyo Big Sight ex                                                                                                                                                         |
-| 12:25–12:55 | **Travel:** Yurikamome to **Daiba**, then walk toward Shiok                                                                                                                  |
-| 12:55–13:45 | **Shiokaze Park:** waterfront paths, open spaces and bri                                                                                                                     |
-| 13:45–14:30 | **Statue of Liberty and Aqua                                                                                                                                                 |
-| 14:30–15:10 | **Walk along Odaiba Marine Park toward                                                                                                                                       |
-| 15:10–15:50 | **Daiba Park’s former battery grounds.** Optional if you prefer more time alo                                                                                                |
-| 15:50–16:15 | **Walk back toward your preferred Marine Par                                                                                                                                 |
-| 16:15–17:10 | Sunset is approxima                                                                                                                                                          |
-| 17:10–18:00 | Dinner around Aqu                                                                                                                                                            |
-| 18:00–18:30 | **Yurikamome to Shimbashi:** illuminated bridg                                                                                                                               |
-| 18:30–19:15 | **Travel:** Shimbashi                                                                                                                                                        |
+| Time        | Plan                                                                                                                          |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 07:00–07:45 | Hotel → **Oshiage** → Asakusa Line to **Shimbashi** → Yurikamome platforms.                                                   |
+| 07:45–08:30 | **Yurikamome all the way to Toyosu.** Try the front carriage for the forward view.                                            |
+| 08:30–09:00 | **Toyosu Park and LaLaport waterfront:** old dock, crane and views across the water toward Harumi’s towers.                   |
+| 09:00–09:25 | Follow **Harumibashi Park north**, then cross the **former Harumi Railway Bridge pedestrian promenade** onto the Harumi side. |
+| 09:25–10:00 | Walk southwest along the **Harumi waterfront → Harumi Rinkai Park**                                                           |
+| 10:00–10:35 | Cross **Harumi-ohashi** back toward Toyosu, then walk via **Shin-Toyosu to Senkyaku Banrai**.                                 |
+| 10:35–11:35 | **Toyosu Senkyaku Banrai:** explore the food streets and have an early lunch.                                                 |
+| 11:35–12:00 | Yurikamome from **Shijo-mae to Tokyo Big Sight**, then walk to the building.                                                  |
+| 12:00–12:25 | Tokyo Big Sight exterior                                                                                                      |
+| 12:25–12:55 | Yurikamome to **Daiba**, then walk toward Shiokaze Park.                                                                      |
+| 12:55–13:45 | **Shiokaze Park:** waterfront paths, open spaces and bridge views.                                                            |
+| 13:45–14:30 | **Statue of Liberty and Aqua City area**, with an optional coffee break.                                                      |
+| 14:30–15:10 | Walk along **Odaiba Marine Park toward Daiba Park**.                                                                          |
+| 15:10–15:50 | **Daiba Park’s former battery grounds — optional.**                                                                           |
+| 15:50–16:15 | Walk back toward your preferred **Marine Park viewpoint**.                                                                    |
+| 16:15–17:10 | **Sunset**                                                                                                                    |
+| 17:10–18:00 | Dinner around **Aqua City or DECKS**.                                                                                         |
+| 18:00–18:30 | **Yurikamome back to Shimbashi** for illuminated bridge and city views.                                                       |
+| 18:30–19:15 | Asakusa Line to **Oshiage** → hotel.                                                                                          |
+
+Alternative route after Toyosu park:  Harumibasi park, then Shijo-mae/Senkyaku Banrai
 
 #### 23
 
