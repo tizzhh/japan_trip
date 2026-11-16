@@ -321,25 +321,21 @@ Maybe Fukuda Art Museum? Looks pretty
 | From 16:30  | Café stop if wanted, then walk to a station and return to the hotel; allow approximately one hour |
 #### 4
 
-| Time                      | Plan                                                                              |
-| ------------------------- | --------------------------------------------------------------------------------- |
-| 07:00–08:30               | Travel via Kyoto Station to **Kintetsu-Nara Station**                             |
-| 08:30–09:20               | Walk around the **western part of Nara Park**, then toward Isuien                 |
-| 09:30–10:20               | **Isuien Garden**                                                                 |
-| 10:20–10:35               | Walk to **Tōdai-ji**                                                              |
-| 10:35–11:25               | **Tōdai-ji Great Buddha Hall**. Possible skip - probably not worth to visit agein |
-| 11:25–12:10               | Walk uphill to **Nigatsu-dō** and enjoy the terrace views                         |
-| 12:10–13:00               | Lunch around the eastern park area                                                |
-| 13:00–13:45               | Walk toward **Kasuga Taisha**, passing the foot of Mount Wakakusa                 |
-| 13:45–14:30               | **Kasuga Taisha** and its lantern-lined approaches                                |
-| 14:30–15:05               | Walk through the park toward **Ukimi-dō**                                         |
-| 15:05–15:25               | **Ukimi-dō pavilion** and pond views                                              |
-| 15:25–15:45               | Walk toward **Naramachi**                                                         |
-| 15:45–16:30               | **Naramachi streets**                                                             |
-| 16:30–17:00               | Café break; choose somewhere open at this hour                                    |
-| 17:00–17:20               | Walk to **Kintetsu-Nara Station**                                                 |
-| Approximately 17:20–18:40 | Return to Kyoto and continue to **Sanjō Bridge**                                  |
-| 18:40–19:00               | Walk south along the **Kamo River’s west bank toward Shijō Bridge**               |
-| 19:00–20:30               | **Dinner in Pontocho**, ideally at a reserved indoor river-facing table           |
-| 20:30–21:00               | Final riverside stroll                                                            |
-| 21:00–21:30               | Return to the hotel and pack                                                      |
+| Time                      | Plan                                                                                            |
+| ------------------------- | ----------------------------------------------------------------------------------------------- |
+| 07:00–08:30               | Travel via Kyoto Station to **Kintetsu-Nara Station**                                           |
+| 08:30–09:20               | Walk around the **western part of Nara Park**, then toward Isuien                               |
+| 09:30–10:20               | **Isuien Garden**                                                                               |
+| 10:20–10:35               | Walk to **Tōdai-ji**                                                                            |
+| 10:35–11:25               | **Tōdai-ji Great Buddha Hall**. Possible skip - probably not worth to visit agein               |
+| 11:25–12:10               | Walk uphill to **Nigatsu-dō** and enjoy the terrace views                                       |
+| 12:10–13:00               | Lunch after Nigatsu-dō                                                                          |
+| 13:00–14:10               | Walk back through the park, photographing deer; continue via **Kōfuku-ji toward Sarusawa Pond** |
+| 14:10–14:30               | Walk to **Kintetsu-Nara Station** and allow time for boarding                                   |
+| Approximately 14:30–15:30 | **Travel to Kyoto Station**; select the actual train before booking teamLab                     |
+| 15:30–16:00               | Walk to **teamLab Biovortex**, with an arrival buffer                                           |
+| 16:00–18:30           | **teamLab Biovortex**                                                                           |
+| 18:30–19:15               | Walk to **Shichijō Station**, then take Keihan to **Gion-Shijō**                                |
+| 19:15–19:45               | **Kamo River stroll**, around the Shijō–Sanjō section                                           |
+| 19:45–20:00               | Walk to your restaurant                                                                         |
+| 20:00 onwards         | **Dinner**                                                                                      |
