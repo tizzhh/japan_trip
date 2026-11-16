@@ -51,21 +51,21 @@ Alternative route after Toyosu park:  Harumibasi park, then Shijo-mae/Senkyaku B
 
 #### 23
 
-| Time        | Plan                                                                                                                                                                             |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 07:00–07:50 | **Travel:** hotel → Hanzomon Line to **Aoyama-itchome** → walk to Gaien’s ginkgo avenue.                                                                                         |
-| 07:50–08:40 | **Meiji Jingu Gaien’s ginkgo avenue**                                                                                                                                            |
-| 08:40–09:40 | **Walk through Aoyama toward Nezu Museum**, including **Prada Aoyama’s exterior** and nearby lanes.                                                                              |
-| 09:40–10:00 | Nezu Museum exterior, or a short coffee stop nearby.                                                                                                                             |
-| 10:00–11:45 | **[Nezu Museum](https://www.e-tix.jp/nezu-muse/en/):** exhibition, architecture and garden. Prioritize the garden while the light is good.                                       |
-| 11:45–12:30 | Lunch in Minami-Aoyama.                                                                                                                                                          |
-| 12:30–13:40 | **SunnyHills → Omotesando Hills:** architecture, optional tasting/shopping and nearby streets.                                                                                   |
-| 13:40–14:20 | **Walk to Shibuya**, or take the Ginza Line from Omotesando.                                                                                                                     |
-| 14:20–15:00 | Short Shibuya stroll, then make your way to Shibuya Sky’s entrance with time to spare.                                                                                           |
-| 15:00–17:10 | **Optional [Shibuya Sky](https://www.shibuya-scramble-square.com/sky/ticket/):** target **15:20 admission** for daylight, sunset around **16:30**, and the first evening lights. |
-| 17:10–17:45 | Take the **JR Yamanote Line toward Shinjuku, one stop to Harajuku**, then walk to HISEKI. This allows time to exit Shibuya Sky and navigate the stations.                        |
-| 17:45–18:45 | **HISEKI:** I’d budget an hour for choosing a coin, fitting and possible waiting.                                                                                                |
-| Afterwards  | Dinner somewhere                                                                                                                                                                 |
+| Time        | Plan                                                                                                                                                      |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 07:00–07:50 | **Travel:** hotel → Hanzomon Line to **Aoyama-itchome** → walk to Gaien’s ginkgo avenue.                                                                  |
+| 07:50–08:40 | **Meiji Jingu Gaien’s ginkgo avenue**                                                                                                                     |
+| 08:40–09:40 | **Walk through Aoyama toward Nezu Museum**, including **Prada Aoyama’s exterior** and nearby lanes.                                                       |
+| 09:40–10:00 | Nezu Museum exterior, or a short coffee stop nearby.                                                                                                      |
+| 10:00–11:45 | **[Nezu Museum](https://www.e-tix.jp/nezu-muse/en/):** exhibition, architecture and garden. Prioritize the garden while the light is good.                |
+| 11:45–12:30 | Lunch in Minami-Aoyama.                                                                                                                                   |
+| 12:30–13:40 | **SunnyHills → Omotesando Hills:** architecture, optional tasting/shopping and nearby streets.                                                            |
+| 13:40–14:20 | **Walk to Shibuya**, or take the Ginza Line from Omotesando.                                                                                              |
+| 14:20–15:00 | Short Shibuya stroll, then make your way to Shibuya Sky’s entrance with time to spare.                                                                    |
+| 15:00–17:10 | [Shibuya Sky](https://www.shibuya-scramble-square.com/sky/ticket/). Admission is at 15:00. Sunset at 16:30                                                |
+| 17:10–17:45 | Take the **JR Yamanote Line toward Shinjuku, one stop to Harajuku**, then walk to HISEKI. This allows time to exit Shibuya Sky and navigate the stations. |
+| 17:45–18:45 | **HISEKI:** I’d budget an hour for choosing a coin, fitting and possible waiting.                                                                         |
+| Afterwards  | Dinner somewhere                                                                                                                                          |
 #### 24
 
 | Time            | Revised plan for **24 November**                                                                                                                                                                                                                                                                                                                                                 |
@@ -78,7 +78,7 @@ Alternative route after Toyosu park:  Harumibasi park, then Shijo-mae/Senkyaku B
 | **11:40–12:25** | **Lunch in Otemachi.**                                                                                                                                                                                                                                                                                                                                                           |
 | **12:25–13:15** | **Otemachi architecture walk:** explore the streets around **Otemachi Financial City and Otemachi One**, including the garden between the towers. ([OTEMACHI ONE](https://otemachi-one.com/garden/?utm_source=chatgpt.com "OTEMACHI ONE GARDEN"))                                                                                                                                |
 | **13:15–13:50** | **Wadakura Fountain Park and the palace moat:** water, bridges and views of the surrounding office buildings. ([env.go.jp](https://www.env.go.jp/garden/kokyogaien/english/wadakura_fountain_park.html?utm_source=chatgpt.com "Wadakura Fountain Park｜Kokyo Gaien National Garden｜The National Environmental Research and Training Institute(NGP)｜Ministry of the Environment")) |
-| **13:50–14:35** | **Gyoko-dori → Tokyo Station’s Marunouchi plaza:** photograph the façade, then step inside the **Marunouchi North and South entrance halls** to see their domes.                                                                                                                                                                                                                 |
+| **13:50–14:35** | **Gyoko-dori → Tokyo Station’s Marunouchi plaza:** facade, step inside the **Marunouchi North and South entrance halls** to see their domes.                                                                                                                                                                                                                                     |
 | **14:35–15:25** | **Marunouchi Naka-dori → Meiji Seimei Kan exterior → Brick Square:** a relaxed architecture walk with time for the courtyard.                                                                                                                                                                                                                                                    |
 | **15:25–15:50** | **Coffee break**, then walk to KITTE.                                                                                                                                                                                                                                                                                                                                            |
 | **15:50–16:40** | **KITTE atrium and 6F rooftop garden:** Tokyo Station views as daylight fades. Sunset is approximately **16:30**; the rooftop is weather-dependent. ([KITTE Marunouchi (for english)](https://marunouchi.jp-kitte.jp/gb/information.jsp?utm_source=chatgpt.com "information"))                                                                                                   |
@@ -92,7 +92,8 @@ If I want to keep 2 gardens, reorder its morning to **Rikugien 09:00–10:15 →
 #### 25
 
 **Meguro river start and end points**
-Naka Bridge -> Starbucks Reserve Roastery -> Asahibashi -> Sakurabashi -> Megurogawahorai bridge 
+
+Naka-no-hashi (中の橋) → Roastery → Asahibashi → Sakurabashi → Horaibashi (宝来橋) → Nakameguro Station
 
 | Time         | Plan                                                                                                              |
 | ------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -134,9 +135,9 @@ Naka Bridge -> Starbucks Reserve Roastery -> Asahibashi -> Sakurabashi -> Meguro
 
 ##### Shared evening
 
-| Time  | Plan                                                                       |
-| ----- | -------------------------------------------------------------------------- |
-| 19:00 | **[JDM Daikoku tour](https://www.trip.com/things-to-do/detail/108764180)** |
+| Time  | Plan                                                                                                                   |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| 19:00 | **[JDM Daikoku tour](https://www.trip.com/things-to-do/detail/108764180)**. Pickup is at akihabara. More info in email |
 ### Fuji
 
 #### 26, 27
@@ -188,9 +189,15 @@ Per spot breakdown:
 | 14:40–15:20  | Drive south toward **Nezame-no-Toko** | This keeps you moving in the direction of YAMO.                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 15:20–15:40  | **Nezame-no-Toko gorge**              | Stop for the view of the striking granite formations from the Route 19 side. The town recommends about **15 minutes** for a viewpoint visit; descending to the rocks is a separate, much longer walk. ([上松町観光サイト](https://kiso-hinoki.jp/colibri-wp/tourist/nezamenotoko/?utm_source=chatgpt.com "寝覚の床"))                                                                                                                                                                      |
 | 15:40–16:15  | Drive to **Momosuke Bridge, Nagiso**  | Walk across the 247-metre wooden suspension bridge over the Kiso River. There is parking at adjacent Tenpaku Park. ([Nagiso Tourism Association](https://en.nagiso.jp/topics/momosuke-bridge/?utm_source=chatgpt.com "〖MIDONO〗Momosuke Bridge〖Nationally Designated Important Cultural Property〗"))                                                                                                                                                                            |
+| 16:15–16:35  | Momosuke Bridge                       | Momosuke Bridge                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | 16:35 onward | Groceries and **YAMO Nagiso**         | Pick up dinner supplies at **Sun Shop Ishikawa** by Nagiso Station, then check in. Its currently listed hours are 08:00–19:00; YAMO has a full kitchen and a hinoki bath for a relaxed evening. ([ぶらり なぎそ －南木曽町観光協会－](https://nagiso.jp/topics/sunshop-ishikawa/?utm_source=chatgpt.com "〖三留野〗サンショップ イシカワ"))                                                                                                                                                                   |
 
 Maybe **Kiso-no-Ōhashi bridge** ? It may be under repair though - have to double check. It is in the **Narai-juku**, so we won't miss it anyway
+
+Note about Nezame-No-Toko: 
+**There’s a new parking complication at Nezame-no-Toko.** The town now reports **partial parking closures from mid-October 2026 to approximately March 2027**. Its notice directs visitors to the alternative **municipal Nezame-no-Toko Art Park parking lot**. [上松町観光サイト](https://kiso-hinoki.jp/colibri-wp/tourist/nezamenotoko/?utm_source=chatgpt.com)
+
+Your **20-minute stop is suitable for a roadside viewpoint**, but could become tight if parking requires extra walking. Keep it optional if you’re running late; the descent toward the rocks needs considerably longer. The town recommends roughly **15 minutes for the viewpoints versus an hour or more for the longer walks**.
 
 ### Nagoya
 
@@ -201,7 +208,7 @@ Maybe **Kiso-no-Ōhashi bridge** ? It may be under repair though - have to doubl
 - Magome
 - Toyota museum
 - SCMAGLEV museum
-- FUJI Science Museum
+- FUJI Science Museum (will probably skip)
 
 Toyota and Science museum don't work on Monday (30th)
 
@@ -236,6 +243,9 @@ And then SCMAGLEV on the 30th
 | **Pontocho dinner?**                                                                 | December 4, 19:00     | **Reserve ahead**, particularly for a river-facing indoor table. Availability remains unchecked because you have not selected a restaurant.                                                                                                                                                                                                                                                      |
 
 #### 30
+
+From Nagoya: 
+Store luggage at Nagoya Station → SCMAGLEV 10:00–12:15 → return and collect luggage → Shinkansen around 13:30 → Kyoto hotel around 14:30–15:00.
 
 This evening has a particular reason for its placement: **November 30 is the final night of Kiyomizu-dera’s 2026 autumn illumination**. The temple stays open until 9:30 pm, with last entry at 9 pm. [KIYOMIZU-DERA TEMPLE](https://www.kiyomizudera.or.jp/en/visit/special_night_viewing/?utm_source=chatgpt.com)
 
@@ -325,21 +335,23 @@ Maybe Fukuda Art Museum? Looks pretty
 | From 16:30  | Café stop if wanted, then walk to a station and return to the hotel; allow approximately one hour |
 #### 4
 
-| Time                      | Plan                                                                                            |
-| ------------------------- | ----------------------------------------------------------------------------------------------- |
-| 07:00–08:30               | Travel via Kyoto Station to **Kintetsu-Nara Station**                                           |
-| 08:30–09:20               | Walk around the **western part of Nara Park**, then toward Isuien                               |
-| 09:30–10:20               | **Isuien Garden**                                                                               |
-| 10:20–10:35               | Walk to **Tōdai-ji**                                                                            |
-| 10:35–11:25               | **Tōdai-ji Great Buddha Hall**. Possible skip - probably not worth to visit agein               |
-| 11:25–12:10               | Walk uphill to **Nigatsu-dō** and enjoy the terrace views                                       |
-| 12:10–13:00               | Lunch after Nigatsu-dō                                                                          |
-| 13:00–14:10               | Walk back through the park, photographing deer; continue via **Kōfuku-ji toward Sarusawa Pond** |
-| 14:10–14:30               | Walk to **Kintetsu-Nara Station** and allow time for boarding                                   |
-| Approximately 14:30–15:30 | **Travel to Kyoto Station**; select the actual train before booking teamLab                     |
-| 15:30–16:00               | Walk to **teamLab Biovortex**, with an arrival buffer                                           |
-| 16:00–18:30           | **teamLab Biovortex**                                                                           |
-| 18:30–19:15               | Walk to **Shichijō Station**, then take Keihan to **Gion-Shijō**                                |
-| 19:15–19:45               | **Kamo River stroll**, around the Shijō–Sanjō section                                           |
-| 19:45–20:00               | Walk to your restaurant                                                                         |
-| 20:00 onwards         | **Dinner**                                                                                      |
+| Time          | Plan                                                                                                              |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 07:00–08:30   | **Travel:** hotel → Kyoto Station → **Kintetsu-Nara Station**                                                     |
+| 08:30–09:20   | Walk along **Noborioji-dōri and the western edge of Nara Park**, then continue toward Isuien                      |
+| 09:30–10:30   | **Isuien Garden:** explore both gardens at an unhurried pace                                                      |
+| 10:30–11:00   | **Walk toward Nigatsu-dō through the Tōdai-ji area**, via Nandaimon Gate and the outdoor paths                    |
+| 11:00–11:40   | **Nigatsu-dō:** terrace views, architecture and surrounding lanes                                                 |
+| 11:40–12:30   | **Lunch** around the Tōdai-ji approach                                                                            |
+| 12:30–13:05   | Walk back through the park toward **Kōfuku-ji**, with deer stops                                                  |
+| 13:05–13:40   | **Kōfuku-ji’s outdoor grounds and Sarusawa Pond:** deer, temple surroundings and the town scenery beside the pond |
+| 13:40–14:14   | Walk to **Kintetsu-Nara Station**; aim to arrive by **14:00**, then check the platform and board                  |
+| 14:14–15:05   | **Kintetsu Express directly to Kyoto Station**                                                                    |
+| 15:05–15:35   | Exit toward the **Hachijō side** and walk to **teamLab Biovortex**                                                |
+| 15:35–16:00   | Arrival buffer, toilets and ticket check                                                                          |
+| 16:00–18:30   | **teamLab Biovortex Kyoto** — arrange a **16:00 timed-entry ticket**                                              |
+| 18:30–19:15   | **Travel:** walk to **Shichijō Station**, then take Keihan to **Gion-Shijō Station**                              |
+| 19:15–19:45   | **Kamo River stroll:** cross Shijō Bridge and walk north along the west bank toward Sanjō Bridge                  |
+| 19:45–20:00   | Walk to your restaurant                                                                                           |
+| 20:00 onwards | **Dinner — your 20:00 reservation**                                                                               |
+| After dinner  | Return to the hotel and pack for departure                                                                        |
