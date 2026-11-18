@@ -316,6 +316,7 @@ Maybe Fukuda Art Museum? Looks pretty
 | 14:30–15:20 | **Arashiyama Yūsai-tei Gallery**, with reserved entry                                       |
 | 15:20–16:30 | Unhurried **riverside walk around Yūsai-tei**, then downstream toward the bridge            |
 | From 16:30  | Café stop if wanted, then return to the hotel; allow approximately one hour for the journey |
+| 19:00       | Kyo Yakiniku Hiro Gion Yamana-an                                                            |
 ##### Option 2 (on foot)
 
 | Time        | Plan                                                                                              |
@@ -333,6 +334,7 @@ Maybe Fukuda Art Museum? Looks pretty
 | 14:30–15:20 | **Arashiyama Yūsai-tei Gallery**, with reserved entry                                             |
 | 15:20–16:30 | **Riverside stroll around Yūsai-tei**, then downstream toward the bridge                          |
 | From 16:30  | Café stop if wanted, then walk to a station and return to the hotel; allow approximately one hour |
+| 19:00       | Kyo Yakiniku Hiro Gion Yamana-an                                                                  |
 #### 4
 
 | Time          | Plan                                                                                                              |
